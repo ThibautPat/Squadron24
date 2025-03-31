@@ -1,0 +1,4 @@
+Lien du Miro pour pouvoir zoomer :
+
+https://miro.com/welcomeonboard/TXFsdWNnMUNZemNVTkN3MkJIMzJyRTBxL3VydVhtY3VuUHZhdFIzWjBTYlJmcU5LQWNpS3licCtleHhLZ3p1YTFmRXFDK0QwWTFrSFE4dDNoZG9zZW5FQzJDTGJmSC9INFh0Ymt5bzNnbnQ0RTRzOUEvNFdKSUtONGo3dGNxVmYhZQ==?share_link_id=573203289908
+

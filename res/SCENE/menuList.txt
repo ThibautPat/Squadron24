@@ -1,0 +1,4 @@
+Decor;UI/Pause;775;100;0.75;0.75;0;255;0;1
+Button;900;300;1;1;UI/Play; ;0;Menu;0;0;0;5
+Button;825;500;1;1;UI/Settings; ;0;Menu;0;0;0;2
+Button;900;700;1;1;UI/Exit; ;0;Menu;0;0;0;17

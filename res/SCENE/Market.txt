@@ -1,0 +1,15 @@
+Button;0;0;1;1;UI/menuList; ;0;Menu;0;0;0;1
+Button;1800;10;1;1;UI/return; ;0;Menu;0;0;0;5
+Decor;UI/Market;700;50;0.75;0.75;0;255;0;1;1
+
+Decor;UI/4ModuleShip;300;270;0.8;0.8;0;255;0;1;1
+Decor;UI/5ModuleShip;800;270;0.8;0.8;0;255;0;1;1
+Decor;UI/LegendaryShip;1300;270;0.8;0.8;0;255;0;1;1
+
+BuyButton;310;745;0.8;0.8;UI/Money;1000$;34;Menu;0;0;0;1;1000
+BuyButton;810;745;0.8;0.8;UI/Money;5000$;34;Menu;0;0;0;2;5000
+BuyButton;1310;745;0.8;0.8;UI/Money;25000$;34;Menu;0;0;0;3;25000
+
+Decor;UI/Money;1525; 945;1;1;0;255;0;1;0.1;0
+TextBox;$ ;UI/Money;1525;950;1;1;44;5
+Audio;Menu.mp3; ; ; ; 

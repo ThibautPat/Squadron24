@@ -1,0 +1,72 @@
+
+Player;500;500;960;1000
+
+Button;0;0;1;1;UI/menuList; ;0;Menu;0;0;0;1
+
+TextBox; ;BACKGROUND/WeaponMenu;1000;0;1;1;0;0
+
+
+PlayerShip;1450;900;2.5;2.5;0
+
+ButtonGarage;1075;125;0.90;0.90;UI/GarageButton;Pistolet;24;Menu;0;0;0;0
+ButtonGarage;1475;125;0.90;0.90;UI/GarageButton;Pistolet Lvl2;24;Menu;0;0;0;-1
+
+ButtonGarage;1075;275;0.90;0.90;UI/GarageButton;Laser;24;Menu;0;0;0;-1
+ButtonGarage;1475;275;0.90;0.90;UI/GarageButton;Laser Lvl2;24;Menu;0;0;0;-1
+
+ButtonGarage;1075;425;0.90;0.90;UI/GarageButton;Shield;24;Menu;0;0;0;1
+ButtonGarage;1475;425;0.90;0.90;UI/GarageButton;Shield Lvl2;24;Menu;0;0;0;-1
+
+ButtonGarage;1075;575;0.90;0.90;UI/GarageButton;Pompe;24;Menu;0;0;0;2
+ButtonGarage;1475;575;0.90;0.90;UI/GarageButton;Pompe Lvl2;24;Menu;0;0;0;-1
+
+
+ArrowButtonGarage;1100;800;1;1;UI/LeftShip; ;0;Menu;0;0;0;-1
+ArrowButtonGarage;1700;800;1;1;UI/RightShip; ;0;Menu;0;0;0;1
+
+
+
+Decor;BACKGROUND/StarSheet;455;-85;0.6;0.6;50;70;3;8;0.05;7
+Decor;BACKGROUND/StarSheet;548;-335;0.5;0.5;30;70;3;8;0.08;4
+Decor;BACKGROUND/StarSheet;643;-120;0.6;0.6;40;60;3;8;0.11;2
+Decor;BACKGROUND/StarSheet;246;-145;0.4;0.4;50;80;3;8;0.07;5
+Decor;BACKGROUND/StarSheet;153;-95;0.5;0.5;60;75;3;8;0.09;3
+Decor;BACKGROUND/StarSheet;53;-315;0.3;0.3;20;90;3;8;0.10;6
+Decor;BACKGROUND/StarSheet;344;-75;0.4;0.4;75;65;3;8;0.08;7
+Decor;BACKGROUND/StarSheet;298;-153;0.5;0.5;35;85;3;8;0.06;1
+Decor;BACKGROUND/StarSheet;702;-135;0.6;0.6;50;95;3;8;0.10;2
+Decor;BACKGROUND/StarSheet;972;-68;0.4;0.4;60;85;3;8;0.09;4
+Decor;BACKGROUND/StarSheet;205;-192;0.3;0.3;30;80;3;8;0.11;3
+
+
+Decor;BACKGROUND/StarSheet;128;-130;0.4;0.4;45;80;3;8;0.12;6
+Decor;BACKGROUND/StarSheet;319;-100;0.4;0.4;60;70;3;8;0.07;2
+Decor;BACKGROUND/StarSheet;689;-125;0.6;0.6;30;95;3;8;0.10;5
+Decor;BACKGROUND/StarSheet;514;-110;0.5;0.5;20;85;3;8;0.09;1
+Decor;BACKGROUND/StarSheet;856;-140;0.4;0.4;50;75;3;8;0.06;4
+Decor;BACKGROUND/StarSheet;143;-150;0.5;0.5;10;65;3;8;0.08;0
+Decor;BACKGROUND/StarSheet;756;-125;0.6;0.6;35;60;3;8;0.11;7
+Decor;BACKGROUND/StarSheet;545;-105;0.3;0.3;25;85;3;8;0.13;6
+Decor;BACKGROUND/StarSheet;918;-180;0.4;0.4;55;50;3;8;0.09;3
+Decor;BACKGROUND/StarSheet;315;-75;0.4;0.4;40;100;3;8;0.10;2
+Decor;BACKGROUND/StarSheet;865;553;0.5;0.5;65;90;3;8;0.12;1
+Decor;BACKGROUND/StarSheet;457;172;0.6;0.6;75;95;3;8;0.07;4
+Decor;BACKGROUND/StarSheet;925;483;0.3;0.3;80;85;3;8;0.06;0
+Decor;BACKGROUND/StarSheet;648;442;0.4;0.4;5;80;3;8;0.08;6
+Decor;BACKGROUND/StarSheet;905;378;0.6;0.6;50;70;3;8;0.05;7
+
+
+Decor;BACKGROUND/StarSheet;125;228;0.4;0.4;45;80;3;8;0.12;6
+Decor;BACKGROUND/StarSheet;313;618;0.4;0.4;60;70;3;8;0.07;2
+Decor;BACKGROUND/StarSheet;691;472;0.6;0.6;30;95;3;8;0.10;5
+Decor;BACKGROUND/StarSheet;517;254;0.5;0.5;20;85;3;8;0.09;1
+Decor;BACKGROUND/StarSheet;859;417;0.4;0.4;50;75;3;8;0.06;4
+Decor;BACKGROUND/StarSheet;137;538;0.5;0.5;10;65;3;8;0.08;0
+Decor;BACKGROUND/StarSheet;764;370;0.6;0.6;35;60;3;8;0.11;7
+Decor;BACKGROUND/StarSheet;538;714;0.3;0.3;25;85;3;8;0.13;6
+Decor;BACKGROUND/StarSheet;928;347;0.4;0.4;55;50;3;8;0.09;3
+Decor;BACKGROUND/StarSheet;314;183;0.4;0.4;40;100;3;8;0.10;2
+
+Button;1800;10;1;1;UI/return; ;0;Menu;0;0;0;5
+
+Audio;Garage.mp3; ; ; ; 

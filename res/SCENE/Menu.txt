@@ -1,0 +1,20 @@
+Decor;UI/Name;1000;50;0.75;0.75;0;255;0;1;1
+Button;1640;400;1;1;UI/Play; ;0;Menu;0;0;0;5
+Button;1510;550;1;1;UI/Settings; ;0;Menu;0;0;0;2
+Button;1665;700;1;1;UI/Exit; ;0;Menu;0;0;0;17
+Decor;OTHER/laserGreen11;375;500;1;1;30;255;0;1;0;0
+Decor;OTHER/laserGreen11;450;400;1;1;30;255;0;1;0;0
+Decor;OTHER/laserGreen11;460;540;1;1;30;255;0;1;0;0
+Decor;OTHER/laserGreen11;550;400;1;1;30;255;0;1;0;0
+Decor;OTHER/GunModule;343;580;1;1;210;255;0;1;0;0
+Decor;OTHER/GunModule;417;635;1;1;212;255;0;1;0;0
+Decor;OTHER/flames;298;630;0.65;0.65;5;255;0;1;0;0
+Decor;OTHER/engine2;347;657;0.65;0.65;215;255;0;1;0;0
+Decor;OTHER/PlayerShip4;350;500;1.5;1.5;35;255;0;1;2
+Decor;BACKGROUND/StarSheet;500;100;0.7;0.7;30;100;1;8;0.08;0
+Decor;BACKGROUND/StarSheet;150;250;0.75;0.75;30;120;1;8;0.08;1
+Decor;BACKGROUND/StarSheet;1500;200;0.75;0.75;75;150;1;8;0.08;2
+Decor;BACKGROUND/StarSheet;900;150;0.5;0.5;30;125;1;8;0.08;0
+Decor;BACKGROUND/StarSheet;1200;720;1;1;100;125;1;8;0.08;3
+Decor;BACKGROUND/StarSheet;800;450;0.4;0.4;100;125;1;8;0.08;1
+Audio;Menu.mp3; ; ; ; 

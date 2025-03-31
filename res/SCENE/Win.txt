@@ -1,0 +1,8 @@
+Button;0;0;1;1;UI/menuList; ;0;Menu;0;0;0;1
+Button;1800;10;1;1;UI/return; ;0;Menu;0;0;0;5
+
+
+TextBox;Tu as Terminer ce Niveau BRAVO!!!;UI/Textbox;575;400;2;2;44;0
+
+TextBox;  ;UI/BARE_fond;675;505;1;1;44;0
+TextBox;Score : ;UI/BARE_fond;675;510;1;1;44;4

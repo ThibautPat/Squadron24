@@ -1,0 +1,20 @@
+Button;0;0;1;1;UI/menuList; ;0;Menu;0;0;0;1
+Decor;BACKGROUND/Road2;40;270;1;1;0;255;0;1
+
+RoundButton;490;245;0.25;0.25;BACKGROUND/planet02;12
+RoundButton;785;755;0.25;0.25;BACKGROUND/planet07;13
+RoundButton;1400;220;0.2;0.2;BACKGROUND/planet04;14
+RoundButton;1750;855;0.25;0.25;BACKGROUND/planet01;15
+
+Button;0;520;1;1;UI/left; ;0;Menu;0;0;0;3
+Button;1800;10;1;1;UI/return; ;0;Menu;0;0;0;5
+
+Decor;BACKGROUND/StarSheet;800;400;0.9;0.9;30;100;1;8;0.08;0
+Decor;BACKGROUND/StarSheet;250;300;0.75;0.75;30;120;1;8;0.08;1
+Decor;BACKGROUND/StarSheet;1400;400;0.75;0.75;75;150;1;8;0.08;2
+Decor;BACKGROUND/StarSheet;1100;150;0.3;0.3;30;125;1;8;0.08;4
+Decor;BACKGROUND/StarSheet;1600;620;0.75;0.75;100;125;1;8;0.08;3
+Decor;BACKGROUND/StarSheet;1100;620;0.5;0.5;100;125;1;8;0.08;3
+Decor;BACKGROUND/StarSheet;500;650;0.6;0.6;100;125;1;8;0.08;2
+
+Audio;Map(1).mp3; ; ; ; 

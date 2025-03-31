@@ -1,0 +1,4 @@
+levelUnluck;1;0;0;0;0;0;0;0;
+levelscore;0;0;0;0;0;0;0;0;0;
+Money;0
+ShipUnlock;1;0;0;0;

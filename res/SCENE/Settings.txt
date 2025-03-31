@@ -1,0 +1,7 @@
+Button;0;0;1;1;UI/menuList; ;0;Menu;0;0;0;0
+
+ButtonSave;500;50;1;1;UI/TextBox;SAVE;24;Menu;0;0;0
+
+
+
+ButtonLoadSave;1000;50;1;1;UI/TextBox;LoadSave;24;Menu;0;0;0
